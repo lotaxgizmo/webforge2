@@ -6,7 +6,7 @@ function Whoweare() {
       <h2 className='text-6xl lg:text-[90px] text-white font-normal mb-10 mt-1 self-end text-right'>WHO WE ARE</h2>
 
 
-      <div className="box border-[0.5px] border-[#02D5FF] w-full rounded-3xl p-8 flex flex-col  ">
+      <div className="box border-[0.5px] border-[#02D5FF] w-full rounded-3xl p-8 flex flex-col bg-black/40 backdrop-blur-lg ">
         <p className='text-3xl text-white font-medium  lg:mb-32w lg:mb-5 lg:mt-0'>
           We are a  team of innovators, thinkers, and creators united by a shared passion  for the transformative power of blockchain technology.
         </p>

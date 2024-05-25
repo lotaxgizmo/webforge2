@@ -9,7 +9,7 @@ import liner from "../assets/liner.svg"
 function Services() {
     return (
         <div className='flex flex-col items-center justify-center text-white p-4 lg:p-0 mb-20'>
-            <div className="box border-[0.5px] border-[#02D5FF] lg:w-10/12 rounded-3xl p-8 flex flex-col lg:flex-row justify-between">
+            <div className="bg-black/40 backdrop-blur-lg box border-[0.5px] border-[#02D5FF] lg:w-10/12 rounded-3xl p-8 flex flex-col lg:flex-row justify-between">
                 <div className="TAB 1 p-2 lg:w-1/3 flex flex-col items-start">
                     <h2 className='text-6xl lg:text-[80px] text-white font-light mb-4 mt-1'>SERVICES</h2>
                     <p className='text-xl text-white font-light w-72 lg:mb-32 mb-14'>

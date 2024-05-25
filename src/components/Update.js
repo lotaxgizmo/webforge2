@@ -5,7 +5,7 @@ import twitter from "../assets/twitter.svg"
 function Update() {
     return (
         <div className='flex justify-center items-center lg:px-32 px-4 mb-32'>
-            <div className="box border-[0.5px] border-[#02D5FF] w-full rounded-3xl p-8 flex flex-col lg:flex-row  ">
+            <div className="box border-[0.5px] border-[#02D5FF] w-full rounded-3xl p-8 flex flex-col lg:flex-row bg-black/40 backdrop-blur-lg ">
                 <div className="le lg:w-1/2">
                 <h2 className='text-6xl lg:text-[90px] text-white font-normal mb-1 lg:mb-10 mt-1 self-start '>FOLLOW
                     OUR UPDATES</h2>
