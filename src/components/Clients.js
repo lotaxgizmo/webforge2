@@ -10,7 +10,7 @@ import funtico2 from "../assets/funtico2.svg"
 
 function Clients() {
   return (
-    <div className='flex flex-col px-4 lg:px-20 justify-center items-center mb-32'>
+    <div id='Clients' className='flex flex-col px-4 lg:px-20 justify-center items-center mb-32'>
       <h2 className='text-6xl lg:text-[90px] text-white font-normal mb-10 mt-1 self-start '>OUR CLIENTS</h2>
 
       <div className="cliro1 flex flex-col lg:flex-row dborder-2 justify-center items-center">

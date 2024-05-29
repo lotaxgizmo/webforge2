@@ -3,7 +3,7 @@ import arrowstand from "../assets/arrowstand.svg"
 
 function Standout() {
     return (
-        <div className='flex flex-col justify-centers p-4'>
+        <div id='About' className='flex flex-col justify-centers p-4'>
             <div className="HERE lg:px-20 flex flex-col lg:flex-row justify-between items-start lg:items-center align-middle ">
                 <div className="text">
                     <h2 className='text-6xl lg:text-[90px] text-white font-normal mb-4 mt-1 '>HERE’S WHY WE</h2>

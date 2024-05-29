@@ -18,6 +18,9 @@ function Whoweare() {
         </p>
         <p className='text-xl text-white font-light  lg:mb-32w mb-5  lg:mt-0 lg:w-9/12'>
         With diverse backgrounds in software development, digital  marketing, financial advisory, and blockchain technology, we bring a  multidimensional perspective to every project we undertake. Our mission  is to empower businesses and entrepreneurs by unlocking the potential of  Web3, delivering solutions that are not only technologically advanced  but also strategically designed to drive growth and success in the  digital age.
+        <br />
+        <br />
+        In a rapidly evolving digital landscape, we stand ready to guide you through the complexities of Web3, ensuring that your project not only thrives but sets new standards of excellence in the blockchain space.
         </p>
 
         </div>
