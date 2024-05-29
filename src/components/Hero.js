@@ -11,12 +11,12 @@ function Hero() {
       <img src={herotextmobile} alt="" className='' />
       <img src={star} alt="" className='absolute -left-36 spin' />
       </div>
-      <p className='text-xl text-center text-white font-light dw-72 lg:mb-322 flex lg:hidden'>
+      {/* <p className='text-xl text-center text-white font-light dw-72 lg:mb-322 flex lg:hidden'>
         Revolutionalize your crypto Trading with our Defi Swap Platform High Value Locked
       </p>
       <p className=' text-xl text-right text-white font-light w-72 lg:mb-322 lg:flex hidden absolute self-start left-[15%]'>
         Revolutionalize your crypto Trading with our Defi Swap Platform High Value Locked
-      </p>
+      </p> */}
     </div>
   )
 }
