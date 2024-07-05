@@ -8,8 +8,8 @@ const MENU_ITEMS = [
   { name: "Home", link: "#" },
   { name: "About", link: "#About" },
   { name: "Clients", link: "#Clients" },
-  { name: "Twitter", link: "https://twitter.com/mewcollector" },
-  { name: "Telegram", link: "https://t.me/consultants" },
+  { name: "Twitter", link: "https://x.com/bogdan_deliu?s=21&t=UpWUFwTcyTD5t8btc2s3NA" },
+  { name: "Telegram", link: "https://t.me/benlightened3" },
 ];
 
 function Header() {
@@ -31,7 +31,7 @@ function Header() {
           </div>
         </div>
         <div className="flex items-center">
-          <a href="https://t.me/consultants" target="_blank" rel="noopener noreferrer">
+          <a href="https://t.me/benlightened3" target="_blank" rel="noopener noreferrer">
             <img src={contact2} alt="Contact" className='w-52 px-5 hidden lg:block' />
           </a>
           <button className="lg:hidden focus:outline-none ml-4" onClick={() => setIsMenuOpen(!isMenuOpen)}>
